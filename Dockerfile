@@ -33,3 +33,6 @@ ENTRYPOINT ["/usr/local/bin/start-notebook.sh"]
 
 # Switch to staring in directory where volumes will be mounted
 WORKDIR "/opt/notebooks"
+
+# For any questions or problems please contact:
+# Marcel Closes, @mcloses
